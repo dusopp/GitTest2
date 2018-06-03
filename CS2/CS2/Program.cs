@@ -10,7 +10,7 @@ namespace CS2
     {
         static void Main(string[] args)
         {
-            //Code was added in github
+            //Code was added in github xxxxxxxx
         }
     }
 }
