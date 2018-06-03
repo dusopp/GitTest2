@@ -11,6 +11,8 @@ namespace CS2
         static void Main(string[] args)
         {
             //Code was added in github xxxxxxxx
+
+            // Code was added in VS
         }
     }
 }
